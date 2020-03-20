@@ -1,0 +1,67 @@
+
+*{
+
+   text-align: center;
+
+ }
+ 
+ th {
+   width: 550px;
+   padding-top: 20px;
+   
+ }
+ tr {
+   width: 100%;
+  
+ }
+
+ table {
+   border-bottom: 2px solid #999;
+   padding: 5px;
+ }
+
+ 
+.gt-input {
+    width: 100%;
+    box-shadow: 3px 2px 3px 2px #999;
+    margin: 25px, 0px, 25px, 0px;
+}
+.rateyo, #rating {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+
+input[type=submit] {
+    background-color: #333253;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+label {
+    color: #999;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+    font-size: 22px; 
+    letter-spacing: 4px;
+    padding: 25px;
+}
+
+textarea {
+    padding: 30px;
+}
+
+.form-status {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: green;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 30px;
+}
+
