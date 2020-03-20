@@ -183,11 +183,10 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
            
                <div class="button_container">
                 <input type="submit" name="add" value="Submit"> 
-                <a href="#clickshow" class="display" id="display" name="display"> Display </a>
+                <input type="submit"  value="Display" class="display" id="display" name="display">
             </div>
 
             
-
 
               <div class="form-status">
                <?php echo $status; 
